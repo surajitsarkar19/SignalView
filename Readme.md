@@ -20,6 +20,9 @@ Then use this view in the layout file.
 ```
 
 # Sample Screenshot
+<br>
+
+<img src="https://raw.githubusercontent.com/surajitsarkar19/SignalView/master/images/screenshot.png" width="40%">
 
 # Xml view properties
 ### barColor
