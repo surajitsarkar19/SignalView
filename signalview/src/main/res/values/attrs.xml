@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignalView">
+        <attr name="barColor" format="color" />
+        <attr name="barCount" format="integer" />
+        <attr name="signalLevel" format="integer" />
+        <attr name="showAllBar" format="boolean" />
+    </declare-styleable>
+
+</resources>
