@@ -2,10 +2,20 @@
 It is a custom view for android to display signal level.
 
 # Uses
-Add the gradle dependencies
+
+Add the project level gradle dependencies
+```groovy
+allprojects {
+    repositories {
+        maven{url="https://dl.bintray.com/surajitsarkar19/com.surajit.android"}
+    }
+}
+```
+
+Add the app gradle dependencies
 ```groovy
 dependencies {
-    compile 'com.surajit.android:SignalView:1.0.0'
+    compile 'com.surajit.android:SignalView:1.0.1'
 }
 ```
 
